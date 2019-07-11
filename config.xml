@@ -29,9 +29,7 @@
     <preference name="target-device" value="universal" />
     <preference name="webviewbounce" value="true" />
     <!--PLUGINS-->
-    <plugin name="cordova-plugin-printer" spec="0.8.0">
-        <variable name="ANDROID_SUPPORT_V4_VERSION" value="27.+" />
-    </plugin>
+    <plugin spec="https://github.com/katzer/cordova-plugin-printer.git" source="git" />
     <plugin name="cordova-plugin-android-fingerprint-auth" />
     <plugin name="cordova-plugin-touch-id" spec="3.3.1" />
     <plugin name="cordova-plugin-vibration" spec="~3.1.0" />

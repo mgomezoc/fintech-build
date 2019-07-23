@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.onecard.fintech" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Fintech v0.1</name>
+    <name>Fintech DEMO</name>
     <description>App Fintech</description>
     <author email="00.13.zkr@gmail.com" href="http://onecard.mx/">
         OneCard
@@ -24,7 +24,7 @@
     <preference name="webviewbounce" value="true" />
     <preference name="permissions" value="none" />
     <!--PLUGINS-->
-    <plugin name="cordova-plugin-camera" spec="4.0.3" />
+    <plugin name="cordova-plugin-camera" />
     <plugin name="cordova-plugin-android-fingerprint-auth" />
     <plugin name="cordova-plugin-touch-id" />
     <plugin name="cordova-plugin-vibration" />

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "249365514083",
+    "firebase_url": "https://fintech-52e40.firebaseio.com",
+    "project_id": "fintech-52e40",
+    "storage_bucket": "fintech-52e40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249365514083:android:30da08abaf868d28",
+        "android_client_info": {
+          "package_name": "com.onecard.fintech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249365514083-uvga37lno3mqmg7d59qu7u0n0ona1ok8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzVihCYKl433Wr4Ae-QSEKRraU7p1STT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249365514083-uvga37lno3mqmg7d59qu7u0n0ona1ok8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

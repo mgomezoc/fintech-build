@@ -25,6 +25,7 @@
     <preference name="permissions" value="none" />
     <!--PLUGINS-->
     <plugin name="cordova-support-google-services" version="1.1.0" />
+    <plugin name="cordova-plugin-geolocation" spec="2.1.0" />
     <plugin name="cordova-plugin-camera" />
     <plugin name="cordova-plugin-android-fingerprint-auth" />
     <plugin name="cordova-plugin-touch-id" />
@@ -98,6 +99,7 @@
     </platform>
     <access origin="*" />
     <access origin="mailto:*" launch-external="yes" />
+    <allow-navigation href="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
     <allow-intent href="tel:*" />

@@ -29,6 +29,7 @@
     <preference name="target-device" value="universal" />
     <preference name="webviewbounce" value="true" />
     <preference name='phonegap-version' value='cli-9.0.0' />
+    <preference name="AllowInlineMediaPlayback" value="true" />
     <!--preference/iOS-->
     <preference name="KeyboardResize" value="true" />
     <preference name="KeyboardStyle" value="dark" />

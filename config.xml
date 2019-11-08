@@ -31,9 +31,10 @@
     <preference name='phonegap-version' value='cli-9.0.0' />
     <preference name="AllowInlineMediaPlayback" value="true" />
     <!--preference/iOS-->
+    <preference name="KeyboardDisplayRequiresUserAction" value="false" />
     <preference name="KeyboardResize" value="true" />
+    <preference name="KeyboardResizeMode" value="native" />
     <preference name="KeyboardStyle" value="dark" />
-    <preference name="KeyboardResizeMode" value="body" />
     <!--PLUGINS-->
     <plugin name="cordova-plugin-android-fingerprint-auth" source="npm" />
     <plugin name="cordova-plugin-device" source="npm" />

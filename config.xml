@@ -36,6 +36,7 @@
     <preference name="KeyboardResizeMode" value="native" />
     <preference name="KeyboardStyle" value="dark" />
     <!--PLUGINS-->
+    <plugin name="cordova.plugins.diagnostic" />
     <plugin name="cordova-plugin-android-fingerprint-auth" source="npm" />
     <plugin name="cordova-plugin-device" source="npm" />
     <plugin name="cordova-plugin-dialogs" source="npm" />

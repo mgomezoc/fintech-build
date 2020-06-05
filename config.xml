@@ -109,6 +109,9 @@
         <splash density="port-xxxhdpi" src="res/screen/android/splash-port-xxxhdpi.png" />
     </platform>
     <access origin="*" />
+    <edit-config file="app/src/main/AndroidManifest.xml" mode="merge" target="/manifest/application">
+        <application android:usesCleartextTraffic="true" />
+    </edit-config>
     <access origin="mailto:*" launch-external="yes" />
     <allow-navigation href="*" />
     <allow-intent href="http://*/*" />
